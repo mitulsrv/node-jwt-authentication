@@ -1,0 +1,30 @@
+{
+  "name": "jwt-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitulsrv/node-jwt-authentication.git"
+  },
+  "keywords": [
+    "JWT",
+    "Based",
+    "Authentication"
+  ],
+  "author": "Mitul Sarvaiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitulsrv/node-jwt-authentication/issues"
+  },
+  "homepage": "https://github.com/mitulsrv/node-jwt-authentication#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
